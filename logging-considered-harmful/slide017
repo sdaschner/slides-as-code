@@ -1,0 +1,17 @@
+
+
+
+
+
+          What to Use Instead For: Journaling
+
+          • Better accomplished by a journaling solution or event sourcing
+          • Make it part of your business requirement
+          • Examples
+            • Custom code with optimal binary solution
+            • Chronicle Queue
+            • LMAX Disruptor
+          • Lower footprint, lower latency, higher throughput
+          • More optimized for further analysis
+
+          -> Mechanical sympathy

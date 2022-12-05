@@ -1,0 +1,12 @@
+
+
+
+
+
+          What to Use Instead For: Debugging
+
+          • Use a debugger (thank you, Captain Obvious)
+          • Modern developer tooling
+          • Dev modes, remote dev, remote debug
+          • Works with remote hosts, containers, K8s
+          • Test scenarios, test environments

@@ -1,0 +1,12 @@
+
+
+
+
+
+          Conclusion
+
+          • Logging has a major performance impact
+          • For almost all aspects, there is a more optimal solution
+          • Avoid third-party logging libraries
+          • Be pragmatic, look at better solutions
+          • Focus on the business and your domain

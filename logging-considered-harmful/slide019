@@ -1,0 +1,11 @@
+
+
+
+
+
+          What to Use Instead For: Monitoring
+
+          • Use a proper monitoring solution
+          • Usually emits metrics at an endpoint
+          • Metrics scraped & collated out-of-band (Prometheus, Grafana, etc.)
+          • Solutions for all major enterprise frameworks OOTB

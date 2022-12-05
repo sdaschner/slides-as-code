@@ -1,0 +1,11 @@
+
+
+
+
+
+          Logging
+
+          • "Human-readable" lines of strings written to file or Stdout
+          • JDK & third-party libraries (Log4j, Logback, etc.)
+          • Log formats as strings (freestyle lines or JSON)
+          • Focusing on what's out there in projects (usage, config)

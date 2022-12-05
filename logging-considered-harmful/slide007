@@ -1,0 +1,13 @@
+
+
+
+
+
+          An Example Benchmark
+
+          • Aims to measure the impact of (extensive) logging
+          • Logging of "human-readable" strings (sync and async)
+          • Comparing the usual logging frameworks, Stdout, no logging
+          • Default configurations
+          • Writing to memory-mapped files (/tmp)
+          • Running as Quarkus application, load test with 50 workers

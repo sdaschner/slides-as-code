@@ -1,0 +1,13 @@
+
+
+
+
+
+          Why do developers use logging?
+
+          • Debugging (appending debug statements into the log)
+          • Unrecoverable errors (database unavailable, OOME, etc.)
+          • Journaling (writing business-related events or audits)
+          • Tracing (printing method invocations, arguments, and stacks)
+          • Monitoring (appending business or technical metrics to the log)
+          • Health checks (writing status messages to ensure liveness)

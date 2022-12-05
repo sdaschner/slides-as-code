@@ -1,0 +1,12 @@
+
+
+
+
+
+          Challenge: Dependencies
+
+          • Transitive dependencies
+          • Version conflicts
+          • Higher potential for bugs & security issues
+
+          -> the less dependencies the better

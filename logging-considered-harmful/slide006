@@ -1,0 +1,13 @@
+
+
+
+
+
+          Challenge: Performance
+
+          • Logs have (one of) the biggest impact in JVM performance
+          • Java heap allocations (byte[]), disproportionally high
+          • High allocation rates will hyper-activate GC
+          • Disk I/O
+          • Network I/O (NFS, etc.)
+          -> Noisy neighbor

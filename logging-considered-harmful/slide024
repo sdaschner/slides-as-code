@@ -1,0 +1,11 @@
+
+
+
+
+
+          When to Use Logging: Unrecoverable / Unexpected Errors
+
+          • When there's no other way out (e.g. DB unavailable)
+          • NOT including user-provoked error
+
+          -> Error in logs means developer or admin has to do some work

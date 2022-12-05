@@ -1,0 +1,11 @@
+
+
+
+
+
+          What to Use Instead For: Tracing
+
+          • Make the requirement explicit
+          • More effective in explicit formats and ways
+          • Use fit-for-purpose solutions, e.g. OpenTracing
+          • Also possible with custom journaling and merging out-of-band

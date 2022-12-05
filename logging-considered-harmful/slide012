@@ -1,0 +1,13 @@
+
+
+
+
+
+          Challenge: Log Formats
+
+          • Which information to include
+          • How to structure the logging messages
+          • Often (always?) no clear strategy & guidance -> default config
+          • Aimed to be "human-readable" yet the amount of data
+            creates the necessity for additional tooling
+          • Ability to use machine-readable formats (e.g. JSON)

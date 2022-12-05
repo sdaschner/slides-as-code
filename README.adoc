@@ -1,0 +1,7 @@
+= Slides as Code
+
+Slides for my presentations.
+
+All of these are plain-text code slides that I use in VIM.
+
+To learn more: https://blog.sebastian-daschner.com/entries/presentations-with-vim[Creating presentations with VIM^]

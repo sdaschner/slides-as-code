@@ -1,0 +1,11 @@
+
+
+
+
+
+          When to Use Logging: Be Pragmatic
+
+          • System.out / System.err good enough
+          • JDK 9+ System.Logger
+          • Third-party libraries & transitive dependencies can be avoided
+          • For more requirements, use a fit-for-purpose solution

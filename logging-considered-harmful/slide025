@@ -1,0 +1,21 @@
+
+
+
+
+
+          When to Use Logging: Consider Containers
+
+          • Containers usually use log events from Stdout/Stderr
+          • No files / log rotation necessary
+
+          -> System.out.println (or custom variations)
+
+
+
+
+
+
+
+
+
+

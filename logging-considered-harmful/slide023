@@ -1,0 +1,10 @@
+
+
+
+
+
+          When to Use Logging: Automated Jobs
+
+          • Anything that otherwise wouldn't be seen (scheduler, cronjob)
+
+          -> Event sourcing / journaling could also make sense

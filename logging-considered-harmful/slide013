@@ -1,0 +1,12 @@
+
+
+
+
+
+          Challenge: Log Levels
+
+          • Work nicely in theory
+          • Debug/trace levels available in production or not
+          • Which level should be used for what
+          • Often (always?) no clear strategy & guidance
+          • Often (always?) further degrades the usefulness of the logs
