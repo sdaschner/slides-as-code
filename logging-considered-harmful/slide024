@@ -7,5 +7,6 @@
 
           • When there's no other way out (e.g. DB unavailable)
           • NOT including user-provoked error
+          • Limit output (e.g. logging only once)
 
           -> Error in logs means developer or admin has to do some work
